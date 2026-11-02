@@ -202,6 +202,11 @@
      "fee": 0.00999
     }
    ]
+  },
+  "ia": {
+   "cash": 100.0,
+   "pos": {},
+   "orders": []
   }
  },
  "bot_memo": {
@@ -215,18 +220,32 @@
    "bot": 100.0,
    "hold_btc": 99.8502,
    "hold_top10": 99.8496
+  },
+  {
+   "time": 1793662135435,
+   "bot": 100.0,
+   "hold_btc": 99.7207,
+   "hold_top10": 99.538,
+   "ia": 100.0
   }
  ],
  "last_prices": {
-  "BTCUSDT": 76846.01,
-  "ETHUSDT": 2254.85,
-  "BNBUSDT": 699.25,
-  "XRPUSDT": 1.2506,
-  "TRXUSDT": 0.3194,
-  "LINKUSDT": 11.147,
-  "ZECUSDT": 1151.73,
-  "DOGEUSDT": 0.07431,
-  "SOLUSDT": 91.99,
-  "HYPEUSDT": 84.44
+  "BTCUSDT": 76746.35,
+  "ETHUSDT": 2250.47,
+  "BNBUSDT": 698.01,
+  "XRPUSDT": 1.2488,
+  "TRXUSDT": 0.3191,
+  "LINKUSDT": 11.12,
+  "ZECUSDT": 1135.44,
+  "DOGEUSDT": 0.07418,
+  "SOLUSDT": 91.8,
+  "HYPEUSDT": 84.15
+ },
+ "ia_start": 1793662111215,
+ "integrity": {
+  "bot": [],
+  "hold_btc": [],
+  "hold_top10": [],
+  "ia": []
  }
 }
