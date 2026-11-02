@@ -1,0 +1,232 @@
+{
+ "start": 1793661386680,
+ "capital_usd": 100.0,
+ "universe": [
+  {
+   "symbol": "BTCUSDT",
+   "coingecko_id": "bitcoin",
+   "rank": 1
+  },
+  {
+   "symbol": "ETHUSDT",
+   "coingecko_id": "ethereum",
+   "rank": 2
+  },
+  {
+   "symbol": "BNBUSDT",
+   "coingecko_id": "binancecoin",
+   "rank": 4
+  },
+  {
+   "symbol": "XRPUSDT",
+   "coingecko_id": "ripple",
+   "rank": 5
+  },
+  {
+   "symbol": "SOLUSDT",
+   "coingecko_id": "solana",
+   "rank": 7
+  },
+  {
+   "symbol": "TRXUSDT",
+   "coingecko_id": "tron",
+   "rank": 8
+  },
+  {
+   "symbol": "HYPEUSDT",
+   "coingecko_id": "hyperliquid",
+   "rank": 10
+  },
+  {
+   "symbol": "ZECUSDT",
+   "coingecko_id": "zcash",
+   "rank": 11
+  },
+  {
+   "symbol": "DOGEUSDT",
+   "coingecko_id": "dogecoin",
+   "rank": 12
+  },
+  {
+   "symbol": "LINKUSDT",
+   "coingecko_id": "chainlink",
+   "rank": 17
+  }
+ ],
+ "skipped": [
+  "usdt (stablecoin)",
+  "usdc (stablecoin)",
+  "figr_heloc (sin par USDT en Binance)",
+  "xmr (sin par USDT en Binance)",
+  "usds (stablecoin)",
+  "wbt (sin par USDT en Binance)",
+  "leo (sin par USDT en Binance)"
+ ],
+ "accounts": {
+  "bot": {
+   "cash": 100.0,
+   "pos": {},
+   "orders": []
+  },
+  "hold_btc": {
+   "cash": 0.0,
+   "pos": {
+    "BTCUSDT": 0.0012993542254989662
+   },
+   "orders": [
+    {
+     "time": 1793661388504,
+     "symbol": "BTCUSDT",
+     "side": "buy",
+     "qty": 0.0012993542254989662,
+     "market_price": 76846.0,
+     "fill_price": 76884.423,
+     "usd": 100.0,
+     "fee": 0.0999
+    }
+   ]
+  },
+  "hold_top10": {
+   "cash": 0.0,
+   "pos": {
+    "BTCUSDT": 0.00012993542254989662,
+    "ETHUSDT": 0.004428240229403001,
+    "BNBUSDT": 0.014279814486112572,
+    "XRPUSDT": 7.984181577858113,
+    "SOLUSDT": 0.10854459703521423,
+    "TRXUSDT": 31.261795495520833,
+    "HYPEUSDT": 0.11824985174407099,
+    "ZECUSDT": 0.008668979676569362,
+    "DOGEUSDT": 134.3697682851481,
+    "LINKUSDT": 0.8957582740889347
+   },
+   "orders": [
+    {
+     "time": 1793661388504,
+     "symbol": "BTCUSDT",
+     "side": "buy",
+     "qty": 0.00012993542254989662,
+     "market_price": 76846.0,
+     "fill_price": 76884.423,
+     "usd": 10.0,
+     "fee": 0.00999
+    },
+    {
+     "time": 1793661388504,
+     "symbol": "ETHUSDT",
+     "side": "buy",
+     "qty": 0.004428240229403001,
+     "market_price": 2254.85,
+     "fill_price": 2255.9774249999996,
+     "usd": 10.0,
+     "fee": 0.00999
+    },
+    {
+     "time": 1793661388504,
+     "symbol": "BNBUSDT",
+     "side": "buy",
+     "qty": 0.014279814486112572,
+     "market_price": 699.24,
+     "fill_price": 699.58962,
+     "usd": 10.0,
+     "fee": 0.00999
+    },
+    {
+     "time": 1793661388504,
+     "symbol": "XRPUSDT",
+     "side": "buy",
+     "qty": 7.984181577858113,
+     "market_price": 1.2506,
+     "fill_price": 1.2512252999999998,
+     "usd": 10.0,
+     "fee": 0.00999
+    },
+    {
+     "time": 1793661388504,
+     "symbol": "SOLUSDT",
+     "side": "buy",
+     "qty": 0.10854459703521423,
+     "market_price": 91.99,
+     "fill_price": 92.03599499999999,
+     "usd": 10.0,
+     "fee": 0.00999
+    },
+    {
+     "time": 1793661388504,
+     "symbol": "TRXUSDT",
+     "side": "buy",
+     "qty": 31.261795495520833,
+     "market_price": 0.3194,
+     "fill_price": 0.3195597,
+     "usd": 10.0,
+     "fee": 0.00999
+    },
+    {
+     "time": 1793661388504,
+     "symbol": "HYPEUSDT",
+     "side": "buy",
+     "qty": 0.11824985174407099,
+     "market_price": 84.44,
+     "fill_price": 84.48222,
+     "usd": 10.0,
+     "fee": 0.00999
+    },
+    {
+     "time": 1793661388504,
+     "symbol": "ZECUSDT",
+     "side": "buy",
+     "qty": 0.008668979676569362,
+     "market_price": 1151.81,
+     "fill_price": 1152.3859049999999,
+     "usd": 10.0,
+     "fee": 0.00999
+    },
+    {
+     "time": 1793661388504,
+     "symbol": "DOGEUSDT",
+     "side": "buy",
+     "qty": 134.3697682851481,
+     "market_price": 0.07431,
+     "fill_price": 0.074347155,
+     "usd": 10.0,
+     "fee": 0.00999
+    },
+    {
+     "time": 1793661388504,
+     "symbol": "LINKUSDT",
+     "side": "buy",
+     "qty": 0.8957582740889347,
+     "market_price": 11.147,
+     "fill_price": 11.152573499999999,
+     "usd": 10.0,
+     "fee": 0.00999
+    }
+   ]
+  }
+ },
+ "bot_memo": {
+  "entry": {},
+  "stopped": []
+ },
+ "last_bar": 1793635200000,
+ "equity": [
+  {
+   "time": 1793661413788,
+   "bot": 100.0,
+   "hold_btc": 99.8502,
+   "hold_top10": 99.8496
+  }
+ ],
+ "last_prices": {
+  "BTCUSDT": 76846.01,
+  "ETHUSDT": 2254.85,
+  "BNBUSDT": 699.25,
+  "XRPUSDT": 1.2506,
+  "TRXUSDT": 0.3194,
+  "LINKUSDT": 11.147,
+  "ZECUSDT": 1151.73,
+  "DOGEUSDT": 0.07431,
+  "SOLUSDT": 91.99,
+  "HYPEUSDT": 84.44
+ }
+}
