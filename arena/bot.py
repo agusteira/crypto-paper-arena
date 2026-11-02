@@ -29,7 +29,7 @@ def step(ex, hist, memo, rebalance=True):
     entries = memo.setdefault("entry", {})
     for s, q in list(bal["positions"].items()):   # stop-loss
         if s in entries and px[s] < entries[s] * (1 - STOP):
-            done.append(ex.place_order(s, "sell", qty=q)); entries.pop(s, None)
+            done.append(ex.place_order(s, "sell", qty=q, reason="stop-loss")); entries.pop(s, None)
             memo.setdefault("stopped", []).append(s)
     if not rebalance: return [o for o in done if o]
     want = targets(hist) - set(memo.get("stopped", []))
@@ -37,10 +37,10 @@ def step(ex, hist, memo, rebalance=True):
     bal = ex.get_balance()
     for s, q in bal["positions"].items():
         if s not in want:
-            done.append(ex.place_order(s, "sell", qty=q)); entries.pop(s, None)
+            done.append(ex.place_order(s, "sell", qty=q, reason="sale del top-3")); entries.pop(s, None)
     eq = ex.equity()
     for s in sorted(want):
         if s not in ex.get_balance()["positions"]:
-            o = ex.place_order(s, "buy", usd=min(eq * MAX_W, ex.get_balance()["cash"]))
+            o = ex.place_order(s, "buy", usd=min(eq * MAX_W, ex.get_balance()["cash"]), reason="entra al top-3 momentum")
             if o: entries[s] = o["fill_price"]; done.append(o)
     return [o for o in done if o]

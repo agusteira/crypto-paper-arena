@@ -26,5 +26,8 @@ python run.py tick      # idempotente: rebalancea solo con velas 4h nuevas; revi
 python run.py report
 python run.py backtest  # ~2 años, completo + in-sample 70% / out-of-sample 30%
 ```
+Bot IA (cuenta `ia`): ver **AGENT.md** para los comandos JSON (`prices`, `candles`, `balance`, `order`, `publish`).
+```
+```
 GitHub Actions corre `tick` cada hora y commitea `data/` y `docs/`. Resultados del backtest en `data/backtest.md`.
 Nota: el backtest usa el top 10 de hoy → tiene sesgo de supervivencia (favorece a todo, incluido el hold).
