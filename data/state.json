@@ -204,9 +204,47 @@
    ]
   },
   "ia": {
-   "cash": 100.0,
-   "pos": {},
-   "orders": []
+   "cash": 50.0,
+   "pos": {
+    "BTCUSDT": 0.00028619307411618434,
+    "ETHUSDT": 0.006657033362625578,
+    "TRXUSDT": 40.69129381081556
+   },
+   "orders": [
+    {
+     "time": 1793662350924,
+     "symbol": "BTCUSDT",
+     "side": "buy",
+     "qty": 0.00028619307411618434,
+     "reason": "Entrada parcial en BTC, el activo m\u00e1s defensivo del top 10, en un mercado que corrige. Invalidaci\u00f3n: cierre 4h bajo 74.500.",
+     "market_price": 76756.01,
+     "fill_price": 76794.38800499999,
+     "usd": 22.0,
+     "fee": 0.021978
+    },
+    {
+     "time": 1793662352640,
+     "symbol": "ETHUSDT",
+     "side": "buy",
+     "qty": 0.006657033362625578,
+     "reason": "Posici\u00f3n chica en ETH, que aguanta cerca de su soporte de 2.175-2.230. Invalidaci\u00f3n: cierre 4h bajo 2.150.",
+     "market_price": 2249.88,
+     "fill_price": 2251.00494,
+     "usd": 15.0,
+     "fee": 0.014985
+    },
+    {
+     "time": 1793662354469,
+     "symbol": "TRXUSDT",
+     "side": "buy",
+     "qty": 40.69129381081556,
+     "reason": "TRX es la \u00fanica con suba en 24h (fuerza relativa) y rebota desde 0,302. Invalidaci\u00f3n: bajo 0,300.",
+     "market_price": 0.319,
+     "fill_price": 0.3191595,
+     "usd": 13.0,
+     "fee": 0.012987
+    }
+   ]
   }
  },
  "bot_memo": {
@@ -227,19 +265,26 @@
    "hold_btc": 99.7207,
    "hold_top10": 99.538,
    "ia": 100.0
+  },
+  {
+   "time": 1793662379537,
+   "bot": 100.0,
+   "hold_btc": 99.7332,
+   "hold_top10": 99.4828,
+   "ia": 99.9252
   }
  ],
  "last_prices": {
-  "BTCUSDT": 76746.35,
-  "ETHUSDT": 2250.47,
-  "BNBUSDT": 698.01,
-  "XRPUSDT": 1.2488,
-  "TRXUSDT": 0.3191,
-  "LINKUSDT": 11.12,
-  "ZECUSDT": 1135.44,
-  "DOGEUSDT": 0.07418,
-  "SOLUSDT": 91.8,
-  "HYPEUSDT": 84.15
+  "BTCUSDT": 76756.0,
+  "ETHUSDT": 2249.89,
+  "BNBUSDT": 698.22,
+  "XRPUSDT": 1.2491,
+  "TRXUSDT": 0.319,
+  "LINKUSDT": 11.114,
+  "ZECUSDT": 1133.54,
+  "DOGEUSDT": 0.07415,
+  "SOLUSDT": 91.76,
+  "HYPEUSDT": 83.93
  },
  "ia_start": 1793662111215,
  "integrity": {
