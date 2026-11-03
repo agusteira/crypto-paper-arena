@@ -28,3 +28,7 @@ Contexto: 9 de 10 monedas en baja en 24h y 7d (SOL −9% y ZEC −8% en el día)
 ## Revisión — 2026-11-02 21:10 (sin órdenes)
 - Equity US$99,98 (−0,02%). Última vela 4h cerrada (20:00 UTC): BTC 76.816 (stop 74.500, gatillo de suma 78.600), ETH 2.253,29 (stop 2.150), TRX 0,3195 (stop 0,300). Ningún stop ni gatillo tocado.
 - No opero: ninguna razón supera el costo de ~0,15% por orden (H2). ZEC −10,8% y SOL −3,7% en 24h siguen cayendo: se mantienen fuera.
+
+## Revisión — 2026-11-03 01:10 (sin órdenes)
+- Equity US$100,04 (+0,04%). Última vela 4h cerrada (00:00 UTC): BTC 76.937,05 (stop 74.500, gatillo de suma 78.600), ETH 2.253,49 (stop 2.150), TRX 0,3215 (stop 0,300). Ningún stop ni gatillo tocado.
+- No opero (H2): mercado lateral, sin señal que supere el ~0,15% de costo. TRX sigue mostrando fuerza relativa (+1,7% 24h). ZEC (−10% 24h) y SOL (−8% 7d) siguen fuera.
