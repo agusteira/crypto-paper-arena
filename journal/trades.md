@@ -75,3 +75,7 @@ Contexto: 9 de 10 monedas en baja en 24h y 7d (SOL −9% y ZEC −8% en el día)
 - Salida si sale mal: este tramo, cierre 4h bajo 77.500 (≈ −4%, vuelve debajo del breakout). T1 mantiene su stop en 74.500 (H3).
 - Plazo: días a 1–2 semanas.
 - Resto: TRX sin fuerza relativa (−1,2% 24h) pero lejos del stop, no lo toco. HYPE (+5,5% 7d) sigue candidata. ZEC (+9,4% 24h) no lo persigo. SOL (−5,7% 7d) fuera.
+
+## Revisión — 2026-11-04 17:12 (sin órdenes)
+- Equity US$101,88 (+1,88%). Última vela 4h cerrada (16:00 UTC): BTC 79.997,80 (mínimo 79.953; stops 74.500 para T1 y 77.500 para T4), ETH 2.406,47 (stop 2.150), TRX 0,3197 (stop 0,300). Ningún stop tocado.
+- No opero (H2, H3): vela de pausa chica tras el breakout, BTC sigue arriba de 78.600; ya está en ~37% del equity y no sumo más. TRX sigue sin fuerza relativa (−0,6% 24h) pero lejos del stop. HYPE pierde impulso (−2,1% 24h, +3,2% 7d): sigue candidata pero no la persigo bajando. ZEC (−2,3% en la última vela) y SOL (−7,5% 7d) fuera.
