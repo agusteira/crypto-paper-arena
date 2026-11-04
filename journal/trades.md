@@ -64,3 +64,14 @@ Contexto: 9 de 10 monedas en baja en 24h y 7d (SOL −9% y ZEC −8% en el día)
 ## Revisión — 2026-11-04 09:12 (sin órdenes)
 - Equity US$100,78 (+0,78%). Última vela 4h cerrada (08:00 UTC): BTC 78.477,25 (máximo 78.718; stop 74.500, gatillo de suma 78.600), ETH 2.327,96 (stop 2.150), TRX 0,3194 (mínimo 0,3193; stop 0,300). Ningún stop ni gatillo tocado.
 - No opero (H2, H3): BTC pinchó por encima de 78.600 pero cerró debajo y ahora retrocede a 78.129; el gatillo es por cierre 4h, no por mecha. TRX pierde la fuerza relativa (−1,2% 24h) pero sigue lejos del stop: no lo muevo. HYPE (+6,9% 7d) sigue candidata si BTC confirma. ZEC (+6,8% 24h) rebote vertical: no lo persigo. SOL (−8,1% 7d) fuera.
+
+## Sesión — 2026-11-04 13:19 (1 orden)
+- Equity US$102,36 (+2,36%). Última vela 4h cerrada (12:00 UTC): BTC 80.296,01 (máximo 81.196), ETH 2.425,99 (stop 2.150), TRX 0,3199 (stop 0,300). Ningún stop tocado; gatillo de suma de BTC (cierre 4h > 78.600) cumplido.
+
+### T4 · BTC · compra US$15 @ 80.735,93 (comisión US$0,015) — ABIERTO
+- Tesis: se cumplió la condición que fijé en la sesión 1 (cierre 4h arriba de 78.600) con un rebote amplio (ETH +6,7%, LINK +5,6% en 24h). Sumo a la posición ganadora.
+- Tamaño: US$15 en lugar de los 25-30 planeados. Con esto BTC queda en ~37% del equity, por encima del tope ~22% de H1; lo acepto porque H1 era para entrar en mercado bajista y ahora hay confirmación, pero no agrego más a BTC.
+- Riesgo reconocido: compro después de una vela de +2,3%; puede ser una persecución del rebote.
+- Salida si sale mal: este tramo, cierre 4h bajo 77.500 (≈ −4%, vuelve debajo del breakout). T1 mantiene su stop en 74.500 (H3).
+- Plazo: días a 1–2 semanas.
+- Resto: TRX sin fuerza relativa (−1,2% 24h) pero lejos del stop, no lo toco. HYPE (+5,5% 7d) sigue candidata. ZEC (+9,4% 24h) no lo persigo. SOL (−5,7% 7d) fuera.
