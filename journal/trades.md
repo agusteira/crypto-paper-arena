@@ -48,3 +48,7 @@ Contexto: 9 de 10 monedas en baja en 24h y 7d (SOL −9% y ZEC −8% en el día)
 ## Revisión — 2026-11-03 17:12 (sin órdenes)
 - Equity US$100,63 (+0,63%). Última vela 4h cerrada (16:00 UTC): BTC 77.612 (stop 74.500, gatillo de suma 78.600), ETH 2.287,04 (stop 2.150), TRX 0,3241 (stop 0,300). Ningún stop ni gatillo tocado.
 - No opero (H2): vela 4h de pausa tras el rebote, BTC no superó 78.600 (máximo 77.893). ZEC rebota fuerte (+6,2% 24h) pero sigue −8% 7d: no persigo un rebote dentro de tendencia bajista. SOL (−7,9% 7d) fuera. HYPE sigue siendo la única positiva en 7d (+4,8%), candidata si el mercado confirma.
+
+## Revisión — 2026-11-03 21:12 (sin órdenes)
+- Equity US$100,39 (+0,39%). Última vela 4h cerrada (20:00 UTC): BTC 77.453,86 (stop 74.500, gatillo de suma 78.600; máximo 78.063), ETH 2.274,77 (stop 2.150), TRX 0,3217 (stop 0,300). Ningún stop ni gatillo tocado.
+- No opero (H2): segunda vela de pausa tras el rebote, BTC rechazado debajo de 78.600; nada que supere el ~0,15% de costo. ZEC sigue rebotando (+7,4% 24h) pero −7,8% 7d: fuera. SOL (−9% 7d) fuera. HYPE sigue única positiva en 7d (+4,5%), candidata si el mercado confirma.
