@@ -204,9 +204,9 @@
    ]
   },
   "ia": {
-   "cash": 35.0,
+   "cash": 49.16411229471102,
    "pos": {
-    "BTCUSDT": 0.0004717983603276972,
+    "BTCUSDT": 0.00028619307411618434,
     "ETHUSDT": 0.006657033362625578,
     "TRXUSDT": 40.69129381081556
    },
@@ -254,6 +254,17 @@
      "fill_price": 80735.92779,
      "usd": 15.0,
      "fee": 0.014985
+    },
+    {
+     "time": 1793895449560,
+     "symbol": "BTCUSDT",
+     "side": "sell",
+     "qty": 0.00018560528621151286,
+     "reason": "Stop del tramo T4: BTC cerr\u00f3 la vela 4h en 76.030, debajo de 77.500, y el breakout fall\u00f3. Vendo ese tramo como estaba planeado (seg\u00fan H3); T1 sigue con su stop en 74.500.",
+     "market_price": 76427.69,
+     "fill_price": 76389.47615500001,
+     "usd": 14.178291,
+     "fee": 0.014178
     }
    ]
   }
@@ -262,7 +273,7 @@
   "entry": {},
   "stopped": []
  },
- "last_bar": 1793865600000,
+ "last_bar": 1793880000000,
  "equity": [
   {
    "time": 1793661413788,
@@ -395,19 +406,26 @@
    "hold_btc": 104.1562,
    "hold_top10": 103.8888,
    "ia": 101.8554
+  },
+  {
+   "time": 1793895493666,
+   "bot": 100.0,
+   "hold_btc": 99.4113,
+   "hold_top10": 99.6468,
+   "ia": 99.0194
   }
  ],
  "last_prices": {
-  "BTCUSDT": 80160.0,
-  "ETHUSDT": 2413.65,
-  "BNBUSDT": 713.67,
-  "XRPUSDT": 1.3145,
-  "TRXUSDT": 0.3187,
-  "LINKUSDT": 11.532,
-  "ZECUSDT": 1315.2,
-  "DOGEUSDT": 0.07654,
-  "SOLUSDT": 96.08,
-  "HYPEUSDT": 81.95
+  "BTCUSDT": 76508.24,
+  "ETHUSDT": 2264.72,
+  "BNBUSDT": 694.19,
+  "XRPUSDT": 1.2556,
+  "TRXUSDT": 0.3166,
+  "LINKUSDT": 10.839,
+  "ZECUSDT": 1275.48,
+  "DOGEUSDT": 0.0725,
+  "SOLUSDT": 91.04,
+  "HYPEUSDT": 79.93
  },
  "ia_start": 1793662111215,
  "integrity": {
