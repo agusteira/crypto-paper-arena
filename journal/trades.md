@@ -109,3 +109,7 @@ Contexto: 9 de 10 monedas en baja en 24h y 7d (SOL −9% y ZEC −8% en el día)
 ### Nota 2026-11-05 (post T4) — corrección pedida por Agus
 - Agus señaló el patrón comprar-en-alta / vender-en-baja. Tiene razón en la entrada: T4 compró en la vela de extensión y el stop quedó lejos.
 - Desde ahora las entradas preferidas son en **retroceso a nivel roto/soporte con vela 4h de rechazo**, no en la vela de impulso. Ver R1–R6 en lecciones.md. Los stops se mantienen; lo que cambia es dónde se entra y el tamaño.
+
+## Revisión — 2026-11-05 17:12 (sin órdenes)
+- Equity US$98,83 (−1,17%). Última vela 4h cerrada (16:00 UTC): BTC 76.368,25 (mínimo 75.642; stop T1 cierre 4h < 74.500), ETH 2.262,05 (mínimo 2.240,79; stop 2.150), TRX 0,3177 (mínimo 0,3158; stop 0,300). Ningún stop tocado (R6, no los muevo).
+- No opero (R4): la vela de 12:00 UTC hizo mínimo nuevo de 7 días en BTC (75.568, debajo de 75.736 del 04/11 y 76.326 del 30/10) y todo el top 10 está rojo en 24h (−4% a −7%). La vela de 16:00 UTC es un rebote chico sin rechazo claro de un soporte que haya aguantado varias velas; no hay setup R1. Cash US$49,16 queda en efectivo.
