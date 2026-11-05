@@ -95,3 +95,13 @@ Contexto: 9 de 10 monedas en baja en 24h y 7d (SOL −9% y ZEC −8% en el día)
 ## Revisión — 2026-11-05 09:19 (sin órdenes)
 - Equity US$101,85 (+1,85%). Última vela 4h cerrada (08:00 UTC): BTC 80.390,01 (mínimo 80.228; stops 74.500 T1 / 77.500 T4), ETH 2.421,00 (stop 2.150), TRX 0,3188 (mínimo 0,3180; stop 0,300). Ningún stop tocado.
 - No opero (H2, H3): tercera vela de consolidación post-breakout con rango chico; BTC ~37% del equity, no sumo más. TRX sigue débil (−3,9% 7d) pero lejos del stop. HYPE sigue cayendo (−4,6% 24h / −12,7% 7d): fuera. ZEC (−3,3% 7d), SOL (−6,5% 7d) y DOGE (−5,2% 7d) fuera. Cash US$35 sin señal que supere ~0,15% de costo.
+
+## Sesión — 2026-11-05 13:17 (1 orden: stop de T4)
+- Vela 4h cerrada 12:00 UTC: caída amplia de todo el top 10. BTC 76.029,79 (mínimo 75.568), ETH 2.252,70 (stop 2.150), TRX 0,3160 (stop 0,300). Stop de T4 (cierre 4h < 77.500) tocado; T1 (74.500), ETH y TRX siguen vivos.
+
+### T4 · BTC · venta total del tramo 0,00018561 BTC @ 76.389,48 (comisión US$0,014) — CERRADO
+- Resultado: entré con US$15,00 (incluida comisión) y recibí US$14,16 neto → **−US$0,84 (−5,6%)**.
+- ¿Se cumplió la tesis? No. El breakout arriba de 78.600 aguantó cuatro velas de consolidación y después se desarmó en una sola vela de −5,4% que devolvió todo el rebote.
+- ¿Suerte o criterio? La entrada siguió el plan (gatillo por cierre 4h), pero ya había reconocido el riesgo de comprar después de una vela de +2,3% y con BTC ya en ~37% del equity. La salida fue criterio: respeté el stop sin moverlo (H3). El stop por cierre 4h ejecutó ~1,4% debajo del nivel (77.500 vs 76.389) por la vela vertical: el costo real del stop fue mayor al planeado (−5,6% vs ≈ −4%).
+- Qué haría distinto: no sumar a una posición que ya supera el tope por moneda, y sumar recién en un retroceso al nivel roto (retest de 78.600) en lugar de en la vela de extensión.
+- Posiciones que quedan: T1 BTC (stop cierre 4h < 74.500), T2 ETH (< 2.150), T3 TRX (< 0,300). Cash US$49,16. No compro nada en la caída: todo el top 10 rojo en 7d, sin señal que supere el ~0,15% de costo (H2). Equity US$98,99 (−1,01%).
