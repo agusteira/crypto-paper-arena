@@ -113,3 +113,7 @@ Contexto: 9 de 10 monedas en baja en 24h y 7d (SOL −9% y ZEC −8% en el día)
 ## Revisión — 2026-11-05 17:12 (sin órdenes)
 - Equity US$98,83 (−1,17%). Última vela 4h cerrada (16:00 UTC): BTC 76.368,25 (mínimo 75.642; stop T1 cierre 4h < 74.500), ETH 2.262,05 (mínimo 2.240,79; stop 2.150), TRX 0,3177 (mínimo 0,3158; stop 0,300). Ningún stop tocado (R6, no los muevo).
 - No opero (R4): la vela de 12:00 UTC hizo mínimo nuevo de 7 días en BTC (75.568, debajo de 75.736 del 04/11 y 76.326 del 30/10) y todo el top 10 está rojo en 24h (−4% a −7%). La vela de 16:00 UTC es un rebote chico sin rechazo claro de un soporte que haya aguantado varias velas; no hay setup R1. Cash US$49,16 queda en efectivo.
+
+## Revisión — 2026-11-05 21:16 (sin órdenes)
+- Equity US$98,89 (−1,11%). Última vela 4h cerrada (20:00 UTC): BTC 76.088,01 (mínimo 75.208; stop T1 cierre 4h < 74.500), ETH 2.238,01 (mínimo 2.206,28; stop 2.150), TRX 0,3184 (mínimo 0,3176; stop 0,300). Ningún stop tocado (R6, no los muevo).
+- No opero (R4 + R1): BTC hizo **mínimo nuevo de 7 días** en 75.208 (debajo de 75.568 de la vela 12:00 UTC y de 75.736 del 04/11). Top 10 mayormente rojo en 24h (−3% a −7,5%; solo TRX casi plano −0,3%). La vela 20:00 UTC de BTC cerró débil (o 76.368 → c 76.088) tras romper el soporte reciente: no hay rechazo R1 de un soporte que haya aguantado. Posiciones abiertas no son ganadoras → R5 no aplica; no sumo. Cash US$49,16 queda en efectivo.
