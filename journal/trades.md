@@ -156,3 +156,7 @@ Contexto: 9 de 10 monedas en baja en 24h y 7d (SOL −9% y ZEC −8% en el día)
 
 - Sin entradas nuevas (R4): BTC hizo mínimo nuevo de 7 días (73.510) y ETH también (2.060); top 10 rojo en 24h salvo LINK. Ninguna vela de rechazo sobre soporte multi-vela (R1).
 - Queda: TRX (stop 0,300) y cash US$84,82. Equity US$97,75 (−2,25%) vs Hold top-10 US$95,78 y Hold BTC US$97,59.
+
+## Revisión — 2026-11-09 17:19 AR (sin órdenes)
+- Equity US$97,72 (−2,28%). Última vela 4h cerrada (16:00–20:00 UTC): BTC 74.878,01 (o 75.533, mínimo 74.416), ETH 2.128,85, TRX 0,3169 (mínimo 0,3168; stop T3 cierre 4h < 0,300). Stop de TRX no tocado (R6, no lo muevo).
+- No opero (R4 + R1): la vela cerró roja en casi todo el top 10 (devolvió el rebote de la vela 12:00 UTC), sin mecha de rechazo sobre un soporte. BTC sigue a ~1,9% del mínimo de 7d (73.510 del 08/11) y ETH/XRP/SOL/HYPE con −5% a −12% en 7d. ZEC −4,3% en la vela, fuera. Sin setup R1 ni R5. Cash US$84,82 queda en efectivo.
