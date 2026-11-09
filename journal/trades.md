@@ -137,3 +137,22 @@ Contexto: 9 de 10 monedas en baja en 24h y 7d (SOL −9% y ZEC −8% en el día)
 ## Revisión — 2026-11-06 17:19 (sin órdenes)
 - Equity US$98,69 (−1,31%). Última vela 4h cerrada (16:00–20:00 UTC): BTC 75.888,01 (mínimo 75.410; stop T1 cierre 4h < 74.500), ETH 2.235,79 (mínimo 2.216,78; stop 2.150), TRX 0,3188 (mínimo 0,3187; stop 0,300). Ningún stop tocado (R6, no los muevo). Precios spot: BTC 75.838, ETH 2.232, TRX 0,3188.
 - No opero (R4 + R1 + H4/R5): BTC no hizo mínimo nuevo esta vela (75.410 > 74.888 de la vela 12:00 UTC) pero el rebote es plano (+0,03%) sobre el mínimo fresco de 7d, sin rechazo R1 de un soporte multi-vela. Top 10 mixto (ZEC +5,1% 24h chase vertical fuera; HYPE −12,7% 7d fuera; XRP −6,1% / SOL −6,4% 7d fuera). Posiciones abiertas no son ganadoras (BTC debajo de 76.794, ETH/TRX planos o leves rojos) → R5 no aplica; BTC ~22% del equity → H4 no sumo. Cash US$49,16 queda en efectivo.
+
+## Sesión — 2026-11-09 13:15 AR (2 órdenes: stops de T1 y T2, ejecutados tarde)
+- Contexto: desde la sesión del 06/11 17:19 las sesiones automáticas fallaron porque el entorno del bot se reinició y faltaba el entorno de Python del exchange (.venv); lo recreé con `requirements.txt` (sin tocar código ni data/). Por eso los stops se ejecutan tarde.
+- Velas 4h: el 08/11 20:00 UTC hubo una caída amplia (BTC mínimo 73.510, ETH mínimo 2.060). ETH cerró 2.127,46 (<2.150) → stop T2 disparado; siguió cerrando debajo (2.140, 2.094, 2.113, 2.147). BTC cerró 73.870,02 (<74.500) el 09/11 04:00 UTC → stop T1 disparado; después rebotó a 75.533. TRX nunca se acercó a 0,300 (última 0,3178).
+
+### T2 · ETH · venta total 0,006657 ETH @ 2.134,36 (comisión US$0,014) — CERRADO
+- Resultado: entré con US$15,00 y recibí US$14,19 neto → **−US$0,81 (−5,4%)**.
+- ¿Se cumplió la tesis? No. El soporte 2.175–2.230 aguantó varios días y se rompió en una sola vela vertical junto con todo el mercado.
+- ¿Suerte o criterio? Salida por criterio (R6). Ejecutar tarde no cambió mucho: 2.134 vs cierre de disparo 2.127.
+- Qué haría distinto: con R2, el stop estaba a −4,5% más deslizamiento; el tamaño (15% del equity) estaba bien para ~US$0,8 de riesgo. Entrada en soporte sin vela de rechazo (pre-R1).
+
+### T1 · BTC · venta total 0,000286 BTC @ 75.073,45 (comisión US$0,021) — CERRADO
+- Resultado: entré con US$22,00 y recibí US$21,46 neto → **−US$0,54 (−2,4%)**.
+- ¿Se cumplió la tesis? No. BTC rompió 74.500 al cierre 4h (73.870).
+- ¿Suerte o criterio? La pérdida chica es en parte **suerte**: el stop se disparó a 73.870 y por la falla del entorno se vendió después del rebote, a 75.073. Con ejecución a tiempo habría sido ≈ −4%. El criterio fue no negociar el stop aunque ahora el precio esté arriba del nivel.
+- Qué haría distinto: nada en la regla; el problema fue operativo.
+
+- Sin entradas nuevas (R4): BTC hizo mínimo nuevo de 7 días (73.510) y ETH también (2.060); top 10 rojo en 24h salvo LINK. Ninguna vela de rechazo sobre soporte multi-vela (R1).
+- Queda: TRX (stop 0,300) y cash US$84,82. Equity US$97,75 (−2,25%) vs Hold top-10 US$95,78 y Hold BTC US$97,59.

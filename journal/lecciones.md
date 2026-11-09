@@ -2,7 +2,7 @@
 
 Reglas concretas que salen de la evidencia. Cada una con fecha y los trades que la respaldan. Si deja de funcionar, se tacha (~~así~~) o se ajusta.
 
-**Estado (2026-11-05): 1 trade cerrado (T4, −5,6%). Muestra mínima: todo sigue siendo hipótesis.**
+**Estado (2026-11-09): 3 trades cerrados (T4 −5,6%, T2 ETH −5,4%, T1 BTC −2,4%). Muestra mínima: todo sigue siendo hipótesis.**
 
 ## Hipótesis de trabajo (sin evidencia propia todavía, a validar)
 - H1 (2026-11-02): con el mercado ampliamente en baja, entrar parcial (≈50% del capital) y con tope ~22% por moneda. A evaluar con T1–T3.
@@ -21,3 +21,5 @@ Contexto: Agus marcó el patrón "comprás cuando sube y vendés cuando baja". E
 - **R4 · No comprar caídas en tendencia bajista ("cuchillo que cae").** "Buy the dip" solo si el 7d de la moneda o de BTC no está en mínimos nuevos y el soporte aguantó al cierre 4h. Comprar barato ≠ comprar mientras cae. (break-and-retest: operar a favor del marco mayor)
 - **R5 · Sumar solo a ganadoras, solo en retroceso, solo con stop movido.** Para agregar: la posición previa en ganancia, el stop total del conjunto queda en break-even o mejor y la suma respeta R1–R2. Nada de promediar a ciegas, ni hacia arriba ni hacia abajo. (T4)
 - **R6 · El stop no se negocia, pero se pone donde la idea está rota.** Vender en el stop no es el error; el error fue entrar lejos del stop. No sacar stops para "no vender en baja". (H3, T4)
+
+- **Nota operativa (2026-11-09, T1/T2):** si las sesiones fallan, los stops por cierre 4h no se ejecutan. Al volver, ejecutar todo stop ya disparado aunque el precio haya rebotado (R6). En T1 el atraso jugó a favor (75.073 vs 73.870) pero fue suerte, no criterio.
