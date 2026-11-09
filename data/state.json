@@ -204,10 +204,8 @@
    ]
   },
   "ia": {
-   "cash": 49.16411229471102,
+   "cash": 84.82244193666568,
    "pos": {
-    "BTCUSDT": 0.00028619307411618434,
-    "ETHUSDT": 0.006657033362625578,
     "TRXUSDT": 40.69129381081556
    },
    "orders": [
@@ -265,6 +263,28 @@
      "fill_price": 76389.47615500001,
      "usd": 14.178291,
      "fee": 0.014178
+    },
+    {
+     "time": 1794240891900,
+     "symbol": "ETHUSDT",
+     "side": "sell",
+     "qty": 0.006657033362625578,
+     "reason": "Stop de T2 (R6): ETH cerr\u00f3 4h bajo 2.150 (2.127 el 08/11 20:00 UTC y sigue debajo). Ejecuto tarde porque las sesiones fallaron por un problema del entorno; el stop no se negocia.",
+     "market_price": 2135.43,
+     "fill_price": 2134.362285,
+     "usd": 14.208521,
+     "fee": 0.014209
+    },
+    {
+     "time": 1794240893585,
+     "symbol": "BTCUSDT",
+     "side": "sell",
+     "qty": 0.00028619307411618434,
+     "reason": "Stop de T1 (R6): BTC cerr\u00f3 4h en 73.870 (<74.500) el 09/11 04:00 UTC. Ejecuto tarde porque las sesiones fallaron; el stop no se negocia aunque ahora rebot\u00f3.",
+     "market_price": 75111.01,
+     "fill_price": 75073.454495,
+     "usd": 21.485503,
+     "fee": 0.021486
     }
    ]
   }
@@ -273,7 +293,7 @@
   "entry": {},
   "stopped": []
  },
- "last_bar": 1793980800000,
+ "last_bar": 1794225600000,
  "equity": [
   {
    "time": 1793661413788,
@@ -462,19 +482,26 @@
    "hold_btc": 98.4755,
    "hold_top10": 99.1716,
    "ia": 98.6738
+  },
+  {
+   "time": 1794240924297,
+   "bot": 100.0,
+   "hold_btc": 97.5945,
+   "hold_top10": 95.7774,
+   "ia": 97.746
   }
  ],
  "last_prices": {
-  "BTCUSDT": 75788.0,
-  "ETHUSDT": 2230.32,
-  "BNBUSDT": 693.08,
-  "XRPUSDT": 1.1783,
-  "TRXUSDT": 0.3188,
-  "LINKUSDT": 10.843,
-  "ZECUSDT": 1342.64,
-  "DOGEUSDT": 0.07274,
-  "SOLUSDT": 90.12,
-  "HYPEUSDT": 78.38
+  "BTCUSDT": 75110.01,
+  "ETHUSDT": 2135.05,
+  "BNBUSDT": 688.08,
+  "XRPUSDT": 1.1096,
+  "TRXUSDT": 0.3176,
+  "LINKUSDT": 10.734,
+  "ZECUSDT": 1207.86,
+  "DOGEUSDT": 0.07036,
+  "SOLUSDT": 87.2,
+  "HYPEUSDT": 75.64
  },
  "ia_start": 1793662111215,
  "integrity": {
