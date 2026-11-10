@@ -176,3 +176,7 @@ Contexto: 9 de 10 monedas en baja en 24h y 7d (SOL −9% y ZEC −8% en el día)
 ## Revisión — 2026-11-10 09:16 AR (sin órdenes)
 - Equity US$97,79 (−2,21%). Última vela 4h cerrada (08:00–12:00 UTC 10/11): BTC 74.420,01 (o 74.849, mínimo 74.116), ETH 2.094,56 (mínimo 2.084), TRX 0,3193 (mínimo 0,3190; stop T3 cierre 4h < 0,300). Stop de TRX no tocado (R6, no lo muevo). Spot: BTC 74.385, ETH 2.094, TRX 0,3188.
 - No opero (R4 + R1): vela roja en casi todo el top 10 (XRP −1,5%, SOL −1,6%, LINK −1,7% en la vela; XRP/HYPE −15,6% en 7d). BTC perforó el soporte 74.400 (mínimo 74.116) y cerró apenas arriba (74.420) en vela roja, sin rechazo claro; el mínimo de 7d (73.510) aguanta pero está a ~1,2%. ETH cerca de su mínimo 7d (2.060). TRX verde pero plano, sin nivel ni 2R. Cash US$84,82 queda en efectivo.
+
+## Revisión — 2026-11-10 13:17 AR (sin órdenes)
+- Equity US$97,82 (−2,18%). Última vela 4h cerrada (12:00–16:00 UTC 10/11): BTC 73.216,01 (o 74.420, mínimo 72.866), ETH 2.024,22 (mínimo 2.006), TRX 0,3193 (mínimo 0,3185; stop T3 cierre 4h < 0,300). Stop de TRX no tocado (R6, no lo muevo). Spot: BTC 73.482, ETH 2.036,8, TRX 0,3194.
+- No opero (R4): vela roja fuerte en todo el top 10 salvo TRX (BTC −1,6%, ETH −3,4%, XRP −3,4%, SOL −2,8%, ZEC −5,0%). BTC rompió el soporte 74.400 y el mínimo de 7d (73.510) con mínimo nuevo 72.866; ETH también mínimo nuevo de 7d (2.006). Cuchillo que cae: sin soporte que haya aguantado al cierre 4h ni vela de rechazo (R1). TRX plano, sin nivel ni 2R. Cash US$84,82 queda en efectivo.
