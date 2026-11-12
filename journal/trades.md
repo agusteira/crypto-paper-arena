@@ -212,3 +212,7 @@ Contexto: 9 de 10 monedas en baja en 24h y 7d (SOL −9% y ZEC −8% en el día)
 ## Revisión — 2026-11-11 21:21 AR (sin órdenes)
 - Equity US$97,73 (−2,27%). Última vela 4h cerrada (20:00–00:00 UTC 11/11): BTC 74.015,19 (o 74.395, mínimo 73.480, máximo 74.811), ETH 2.056,36 (mínimo 2.035,8), TRX 0,3170 (stop T3 cierre 4h < 0,300). Stop de TRX no tocado (R6, no lo muevo). Spot: BTC 74.035, ETH 2.059,8, TRX 0,3172.
 - No opero (R1 + R3 + R4): BTC volvió a pinchar arriba (74.811) y cerró en vela roja debajo de 74.480: segundo rechazo seguido en la resistencia, sin ruptura confirmada que se pueda retestear. La mecha a 73.480 no toca un nivel roto. Con stop debajo de 73.200–72.700 hasta 75.400 hay <2R → R3 no. Vela roja en casi todo el top 10 (LINK −2,6%, SOL −1,9%, ZEC −3,7%; ZEC −25% 7d, XRP −19% 7d) → R4. Cash US$84,82 queda en efectivo.
+
+## Revisión — 2026-11-12 01:20 AR (sin órdenes)
+- Equity US$97,75 (−2,25%). Última vela 4h cerrada (00:00–04:00 UTC 12/11): BTC 73.807,45 (o 74.015, mínimo 73.590, máximo 74.217), ETH 2.055,12, TRX 0,3173 (stop T3 cierre 4h < 0,300). Stop de TRX no tocado (R6, no lo muevo). Spot: BTC 73.756, ETH 2.053,8, TRX 0,3176.
+- No opero (R1 + R3 + R4): BTC vela roja chica, tercer intento fallido debajo de 74.480 y sin retroceso a un nivel roto con rechazo; la mecha a 73.590 queda en el medio del rango 72.700–74.800. Con stop debajo de 72.700 hasta 75.400 hay <2R → R3 no. Vela roja en casi todo el top 10 (LINK −0,8%, DOGE −0,3%, XRP −0,4%; ZEC −25% 7d, XRP −20% 7d) → R4. Cash US$84,82 queda en efectivo.
