@@ -240,3 +240,7 @@ Contexto: 9 de 10 monedas en baja en 24h y 7d (SOL −9% y ZEC −8% en el día)
 ## Revisión — 2026-11-13 01:20 AR (sin órdenes)
 - Equity US$97,49 (−2,51%). Última vela 4h cerrada (00:00–04:00 UTC 13/11): BTC 68.965 (o 71.460, mínimo 68.528, máximo 71.514), ETH 1.934,57, TRX 0,3116 (stop T3 cierre 4h < 0,300). Stop de TRX no tocado (R6, no lo muevo). Spot: BTC 68.990, ETH 1.937,8, TRX 0,3114.
 - No opero (R4 + R1): BTC vela roja de −3,5% rompiendo 70.000 con mínimo nuevo de 7d (68.528) y cierre cerca del mínimo, sin rechazo. Todo el top 10 rojo en la vela (ETH −4,2%, SOL −4,0%, LINK −4,0%, DOGE −4,3%; ZEC −26,5% y XRP −15% 7d). Cuchillo que cae, sin soporte que haya aguantado al cierre 4h. Cash US$84,82 queda en efectivo.
+
+## Revisión — 2026-11-13 05:20 AR (sin órdenes)
+- Equity US$97,47 (−2,53%). Última vela 4h cerrada (04:00–08:00 UTC 13/11): BTC 68.594 (o 68.965, mínimo 67.568, máximo 69.371), ETH 1.934,52 (mínimo 1.895,95), TRX 0,3110 (mínimo 0,3107; stop T3 cierre 4h < 0,300). Stop de TRX no tocado (R6, no lo muevo). Spot: BTC 68.537, ETH 1.928,6, TRX 0,3108.
+- No opero (R4 + R1): BTC hizo otro mínimo nuevo de 7d (67.568) y cerró rojo; la mecha abajo no es rechazo de un nivel roto ni de un soporte que haya aguantado. Top 10 −1 a −6% en 24h (BTC −6,1%, BNB −5,5%, ETH −4,7%; ZEC −27,5% 7d). Los rebotes chicos de SOL/LINK/XRP en la vela no tienen nivel de soporte probado y BTC sigue en mínimos nuevos (R4). Cash US$84,82 queda en efectivo.
