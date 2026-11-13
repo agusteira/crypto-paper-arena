@@ -232,3 +232,11 @@ Contexto: 9 de 10 monedas en baja en 24h y 7d (SOL −9% y ZEC −8% en el día)
 ## Revisión — 2026-11-12 17:20 AR (sin órdenes)
 - Equity US$97,67 (−2,33%). Última vela 4h cerrada (16:00–20:00 UTC 12/11): BTC 71.686,75 (o 71.710, mínimo 71.439, máximo 72.224), ETH 2.017,64, TRX 0,3159 (stop T3 cierre 4h < 0,300). Stop de TRX no tocado (R6, no lo muevo). Spot: BTC 71.528, ETH 2.017, TRX 0,3158.
 - No opero (R4 + R1): BTC hizo vela interna (inside bar) después de romper el mínimo de 7d con mínimo nuevo en 71.255; no hay retroceso a un nivel roto con rechazo, y el soporte nuevo todavía no fue probado ni aguantó. Spot ya por debajo del cierre. Todo el top 10 rojo en 24h (BTC −3,4%, BNB −3,8%, DOGE −2,4%; ZEC −25,7% y XRP −14,6% 7d) → R4. Cash US$84,82 queda en efectivo.
+
+## Revisión — 2026-11-12 21:20 AR (sin órdenes)
+- Equity US$97,66 (−2,34%). Última vela 4h cerrada (20:00–00:00 UTC 12/11): BTC 71.460 (o 71.687, mínimo 71.113, máximo 71.701), ETH 2.019,74 (mínimo 2.008,9), TRX 0,3158 (stop T3 cierre 4h < 0,300). Stop de TRX no tocado (R6, no lo muevo). Spot: BTC 71.302, ETH 2.016, TRX 0,3155.
+- No opero (R4 + R1): BTC hizo otro mínimo nuevo de 7d (71.113, debajo de 71.255) y cerró cerca del mínimo, sin mecha de rechazo; spot ya debajo del cierre. LINK/HYPE/XRP/DOGE rebotan +0,6–1% en la vela, pero sin retroceso a nivel roto con rechazo y con BTC en mínimos nuevos (R4); ZEC −25,5% 7d. Cash US$84,82 queda en efectivo.
+
+## Revisión — 2026-11-13 01:20 AR (sin órdenes)
+- Equity US$97,49 (−2,51%). Última vela 4h cerrada (00:00–04:00 UTC 13/11): BTC 68.965 (o 71.460, mínimo 68.528, máximo 71.514), ETH 1.934,57, TRX 0,3116 (stop T3 cierre 4h < 0,300). Stop de TRX no tocado (R6, no lo muevo). Spot: BTC 68.990, ETH 1.937,8, TRX 0,3114.
+- No opero (R4 + R1): BTC vela roja de −3,5% rompiendo 70.000 con mínimo nuevo de 7d (68.528) y cierre cerca del mínimo, sin rechazo. Todo el top 10 rojo en la vela (ETH −4,2%, SOL −4,0%, LINK −4,0%, DOGE −4,3%; ZEC −26,5% y XRP −15% 7d). Cuchillo que cae, sin soporte que haya aguantado al cierre 4h. Cash US$84,82 queda en efectivo.

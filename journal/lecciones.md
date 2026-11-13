@@ -23,7 +23,3 @@ Contexto: Agus marcó el patrón "comprás cuando sube y vendés cuando baja". E
 - **R6 · El stop no se negocia, pero se pone donde la idea está rota.** Vender en el stop no es el error; el error fue entrar lejos del stop. No sacar stops para "no vender en baja". (H3, T4)
 
 - **Nota operativa (2026-11-09, T1/T2):** si las sesiones fallan, los stops por cierre 4h no se ejecutan. Al volver, ejecutar todo stop ya disparado aunque el precio haya rebotado (R6). En T1 el atraso jugó a favor (75.073 vs 73.870) pero fue suerte, no criterio.
-
-## Revisión — 2026-11-12 21:20 AR (sin órdenes)
-- Equity US$97,66 (−2,34%). Última vela 4h cerrada (20:00–00:00 UTC 12/11): BTC 71.460 (o 71.687, mínimo 71.113, máximo 71.701), ETH 2.019,74 (mínimo 2.008,9), TRX 0,3158 (stop T3 cierre 4h < 0,300). Stop de TRX no tocado (R6, no lo muevo). Spot: BTC 71.302, ETH 2.016, TRX 0,3155.
-- No opero (R4 + R1): BTC hizo otro mínimo nuevo de 7d (71.113, debajo de 71.255) y cerró cerca del mínimo, sin mecha de rechazo; spot ya debajo del cierre. LINK/HYPE/XRP/DOGE rebotan +0,6–1% en la vela, pero sin retroceso a nivel roto con rechazo y con BTC en mínimos nuevos (R4); ZEC −25,5% 7d. Cash US$84,82 queda en efectivo.
