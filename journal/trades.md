@@ -248,3 +248,7 @@ Contexto: 9 de 10 monedas en baja en 24h y 7d (SOL −9% y ZEC −8% en el día)
 ## Revisión — 2026-11-13 09:25 AR (sin órdenes)
 - Equity US$97,54 (−2,46%). Última vela 4h cerrada (08:00–12:00 UTC 13/11): BTC 69.318 (o 68.594, mínimo 68.516, máximo 69.571), ETH 1.959,24, TRX 0,3127 (mínimo 0,3107; stop T3 cierre 4h < 0,300). Stop de TRX no tocado (R6, no lo muevo). Spot: BTC 69.288, ETH 1.959,3, TRX 0,3126.
 - No opero (R4 + R1): BTC rebota +1,1% en la vela pero viene de mínimo nuevo de 7d (67.568) hace una vela; el rebote no es retroceso a un nivel roto con rechazo y el soporte 67.568 no fue re-testeado ni aguantó un cierre. HYPE +3,6% en la vela (73,89) → sería chasear (R1 >2%). Resto del top 10 con 7d de −8 a −28% (ZEC −28,5%). Cash US$84,82 queda en efectivo.
+
+## Revisión — 2026-11-13 13:25 AR (sin órdenes)
+- Equity US$97,57 (−2,43%). Última vela 4h cerrada (12:00–16:00 UTC 13/11): BTC 68.900 (o 69.318, mínimo 68.103, máximo 70.214), ETH 1.934,93 (máximo 1.989, mínimo 1.912), TRX 0,3132 (stop T3 cierre 4h < 0,300). Stop de TRX no tocado (R6, no lo muevo). Spot: BTC 68.661, ETH 1.926, TRX 0,3132.
+- No opero (R1 + R4): BTC intentó 70.000 (máximo 70.214) y fue rechazado con mecha arriba, cerrando rojo; es rechazo en resistencia, no rechazo de soporte. El mínimo de 7d (67.568) aguantó pero no fue re-testeado con cierre de rechazo. Top 10 rojo en la vela y 24h (BTC −4,2%, ETH −4,5%, BNB −3,7%; ZEC −29,9% 7d). HYPE retrocede desde 73,89 a 73,17 sin tocar nivel roto con rechazo. Cash US$84,82 queda en efectivo.
