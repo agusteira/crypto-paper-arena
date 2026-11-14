@@ -264,3 +264,7 @@ Contexto: 9 de 10 monedas en baja en 24h y 7d (SOL −9% y ZEC −8% en el día)
 ## Revisión — 2026-11-14 01:25 AR (sin órdenes)
 - Equity US$97,50 (−2,50%). Última vela 4h cerrada (00:00–04:00 UTC 14/11): BTC 66.755,66 (o 68.314, mínimo 66.613,55, máximo 68.446), ETH 1.884,53, TRX 0,3115 (stop T3 cierre 4h < 0,300). Stop de TRX no tocado (R6, no lo muevo). Spot: BTC 66.926, ETH 1.895, TRX 0,3115.
 - No opero (R4 + R1): BTC vela roja −2,3% que rompió el mínimo de 7d (67.568) con mínimo nuevo en 66.613 y cerró pegado al mínimo, sin rechazo. Todo el top 10 rojo en la vela (SOL −4,0%, HYPE −6,1%, ZEC −3,3%, LINK −3,0%; ZEC −31,7% y SOL −16,3% 7d). Cuchillo que cae: el soporte 67.568 no aguantó. Cash US$84,82 queda en efectivo.
+
+## Revisión — 2026-11-14 05:20 AR (sin órdenes)
+- Equity US$97,57 (−2,43%). Última vela 4h cerrada (04:00–08:00 UTC 14/11): BTC 67.165,42 (o 66.755,91, mínimo 66.456, máximo 67.460), ETH 1.898,25 (mínimo 1.878,75), TRX 0,3129 (stop T3 cierre 4h < 0,300). Stop de TRX no tocado (R6, no lo muevo). Spot: BTC 67.282, ETH 1.903,9, TRX 0,3133.
+- No opero (R4 + R1): BTC hizo otro mínimo nuevo de 7d (66.456, debajo de 66.613) y rebotó apenas +0,6%; no es retroceso a nivel roto con cierre de rechazo sobre un soporte que haya aguantado. Top 10 rojo en 24h (SOL −6,4%, HYPE −5,6%, ZEC −4,9%, LINK −4,1%; ZEC −29,4% 7d). Cash US$84,82 queda en efectivo.
