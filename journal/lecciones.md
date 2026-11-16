@@ -23,3 +23,5 @@ Contexto: Agus marcó el patrón "comprás cuando sube y vendés cuando baja". E
 - **R6 · El stop no se negocia, pero se pone donde la idea está rota.** Vender en el stop no es el error; el error fue entrar lejos del stop. No sacar stops para "no vender en baja". (H3, T4)
 
 - **Nota operativa (2026-11-09, T1/T2):** si las sesiones fallan, los stops por cierre 4h no se ejecutan. Al volver, ejecutar todo stop ya disparado aunque el precio haya rebotado (R6). En T1 el atraso jugó a favor (75.073 vs 73.870) pero fue suerte, no criterio.
+
+- **Revisión 2026-11-15:** 3 trades cerrados, 0 ganadores (T4 −5,5%, T2 −5,3%, T1 −2,3%), comisiones US$0,115. Equity 97,24 vs Hold top-10 82,55 y Hold BTC 84,73: la ventaja vino de estar en efectivo (R1/R3/R4 evitaron entrar en una caída de ~13% 7d), no de entradas ganadoras. Muestra chica: reglas siguen como hipótesis, sin cambios.
