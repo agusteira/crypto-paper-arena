@@ -332,3 +332,7 @@ Contexto: 9 de 10 monedas en baja en 24h y 7d (SOL −9% y ZEC −8% en el día)
 ## Revisión — 2026-11-16 21:30 AR (sin órdenes)
 - Equity US$97,25 (−2,75%). Última vela 4h cerrada (20:00–00:00 UTC 16/11): BTC 64.882,87 (o 65.068, mínimo 64.788,11, máximo 65.534,94), ETH 1.820,67, TRX 0,3052 (mínimo 0,3051; stop T3 cierre 4h < 0,300). Stop de TRX no tocado (R6, no lo muevo). Spot: BTC 64.610, ETH 1.817, TRX 0,3055.
 - No opero (R1 + R3 + R4): BTC vela roja chica (−0,3%) en mitad del rango 63.905–66.132, sin retroceso al soporte 64.000–64.250 ni cierre de rechazo. Aun con stop bajo 63.905 hasta la resistencia 65.700–66.132 no hay 2R (R3). 7d sigue rojo en todo el top 10 (BTC −13,4%, ZEC −21,6%, SOL −16,6%) (R4). HYPE sube +4,1% 24h con velas de impulso (+2,7%, +1,8%), sin retroceso: sería chasear (R1). Cash US$84,82 queda en efectivo.
+
+## Revisión — 2026-11-17 01:35 AR (sin órdenes)
+- Equity US$97,24 (−2,76%). Última vela 4h cerrada (00:00–04:00 UTC 17/11): BTC 65.056,52 (o 64.882,88, mínimo 64.385,99, máximo 65.200), TRX 0,3052 (stop T3 cierre 4h < 0,300). Stop de TRX no tocado (R6). Spot: BTC 64.933, TRX 0,3052.
+- No opero (R3 + R4 + R1): BTC vela +0,3% en la mitad del rango 63.905–66.132, con mecha a 64.386 pero sin retest del soporte; con stop bajo 63.905 (~1,8% + 1,5% costos) hasta 65.700–66.132 no hay ni 1R. 7d sigue −13% en todo el top 10. HYPE +4,9% 24h en impulso = chasear (R1). Cash US$84,82 queda en efectivo.
