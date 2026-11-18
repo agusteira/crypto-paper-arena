@@ -356,3 +356,8 @@ Contexto: 9 de 10 monedas en baja en 24h y 7d (SOL −9% y ZEC −8% en el día)
 ## Revisión — 2026-11-17 21:25 AR (sin órdenes)
 - Equity US$97,35 (−2,65%). Última vela 4h cerrada (20:00–00:00 UTC 17/11): BTC 64.947,35 (o 63.753,74, máximo 65.268, mínimo 63.685,96), HYPE 70,02 (o 67,88, mínimo 67,69), ETH 1.824,88, SOL 75,19 (+3,2%), TRX 0,3081 (stop T3 cierre 4h < 0,300). Stop de TRX no tocado (R6). Spot: BTC 64.803, HYPE 69,73, TRX 0,308.
 - No opero (R1 + R3): BTC recuperó 64.000–64.250 con vela verde +1,9% (recuperación, no retest con rechazo). Entrando a 64.803 con stop bajo 63.450 (≈2,1% + 1,5% costos ≈ 3,6%) hasta 65.700–66.132 hay 1,4–2,0% → <1R. HYPE +3,2% y SOL +3,2% en la vela = chasear (R1). Top 10 7d sigue rojo (BTC −12,2%). Cash US$84,82 queda en efectivo. A vigilar: retest de 64.000–64.250 desde arriba con cierre de rechazo.
+
+## Revisión — 2026-11-18 01:35 AR (sin órdenes)
+- Equity US$97,37 (−2,63%). Última vela 4h cerrada (00:00–04:00 UTC 18/11): BTC 64.457,96 (o 64.947,36, máximo 65.002, mínimo 64.136), HYPE 68,71 (o 70,02, mínimo 68,39), ETH 1.805,16, SOL 74,80, TRX 0,3081 (stop T3 cierre 4h < 0,300). Stop de TRX no tocado (R6). Spot: BTC 64.513, HYPE 68,67, TRX 0,3083.
+- No opero (R3 + R4): BTC hizo el retest de 64.000–64.250 desde arriba (mínimo 64.136) y cerró arriba (64.458), pero en vela roja −0,75% con mecha chica; con stop bajo 63.650 (≈1,3% + 1,5% costos ≈ 2,8%) hasta 65.700–66.132 hay solo 1,8–2,5% → <1R. HYPE volvió al nivel ~68,6 (mínimo 68,39, cierre 68,71) sin rechazo claro; con stop bajo 67,3 (≈3,5% con costos) hasta 71,05 hay ~3,5% → ~1R. Top 10 7d sigue rojo (BTC −12,9%, ETH −12,7%). Cash US$84,82 queda en efectivo. A vigilar: BTC rompiendo 66.132 y retesteando, o vela de rechazo fuerte en 64.000.
+
