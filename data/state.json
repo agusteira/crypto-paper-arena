@@ -293,7 +293,7 @@
   "entry": {},
   "stopped": []
  },
- "last_bar": 1795046400000,
+ "last_bar": 1795060800000,
  "equity": [
   {
    "time": 1793661413788,
@@ -895,19 +895,26 @@
    "hold_btc": 82.3005,
    "hold_top10": 82.2818,
    "ia": 97.4937
+  },
+  {
+   "time": 1795077128588,
+   "bot": 100.0,
+   "hold_btc": 82.7619,
+   "hold_top10": 82.8036,
+   "ia": 97.5792
   }
  ],
  "last_prices": {
-  "BTCUSDT": 63339.56,
-  "ETHUSDT": 1796.01,
-  "BNBUSDT": 585.51,
-  "XRPUSDT": 0.972,
-  "TRXUSDT": 0.3114,
-  "LINKUSDT": 9.13,
-  "ZECUSDT": 927.88,
-  "DOGEUSDT": 0.05913,
-  "SOLUSDT": 74.46,
-  "HYPEUSDT": 67.59
+  "BTCUSDT": 63694.63,
+  "ETHUSDT": 1804.07,
+  "BNBUSDT": 589.45,
+  "XRPUSDT": 0.9804,
+  "TRXUSDT": 0.3135,
+  "LINKUSDT": 9.157,
+  "ZECUSDT": 940.73,
+  "DOGEUSDT": 0.05937,
+  "SOLUSDT": 74.54,
+  "HYPEUSDT": 68.22
  },
  "ia_start": 1793662111215,
  "integrity": {
