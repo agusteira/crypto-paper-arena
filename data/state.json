@@ -1000,19 +1000,26 @@
    "hold_btc": 78.0176,
    "hold_top10": 76.7349,
    "ia": 97.2414
+  },
+  {
+   "time": 1795278827221,
+   "bot": 100.0,
+   "hold_btc": 78.0158,
+   "hold_top10": 76.7359,
+   "ia": 97.2414
   }
  ],
  "last_prices": {
-  "BTCUSDT": 60043.4,
-  "ETHUSDT": 1684.09,
-  "BNBUSDT": 547.16,
-  "XRPUSDT": 0.9287,
+  "BTCUSDT": 60042.0,
+  "ETHUSDT": 1684.1,
+  "BNBUSDT": 546.98,
+  "XRPUSDT": 0.9286,
   "TRXUSDT": 0.3052,
-  "LINKUSDT": 8.584,
-  "ZECUSDT": 785.62,
-  "DOGEUSDT": 0.05498,
-  "SOLUSDT": 70.45,
-  "HYPEUSDT": 60.65
+  "LINKUSDT": 8.587,
+  "ZECUSDT": 785.4,
+  "DOGEUSDT": 0.05499,
+  "SOLUSDT": 70.44,
+  "HYPEUSDT": 60.68
  },
  "ia_start": 1793662111215,
  "integrity": {
